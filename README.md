@@ -13,5 +13,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYPT71&layout=compact&theme=react&cache_seconds=1800&langs_count=10&hide_border=true)
 
 <p align="center"><img src="https://img.shields.io/github/followers/CYPT71?label=Follow&color=blueviolet&style=flat&logo=GitHub" /></p>
-
-https://img.shields.io/github/followers/CYPT71?label=Follow&color=blueviolet&style=flat&logo=GitHub
