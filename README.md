@@ -3,7 +3,7 @@
 
 ◽ 👓 DevOps (Kube, Go, Java, Shell, Batchfile, C)
 ◽ 👓 DevWeb (Javascript, Python, Vue, React, Angular)
-◽ 👓 PLaying with (Pascal, Fortran, Ocaml, Fonctional sharp)
+◽ 👓 Playing with (Pascal, Fortran, Ocaml, Fonctional sharp)
 
 ◾ 💜 Arch, Ubuntu, Debian, Windows
 
